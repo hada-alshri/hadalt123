@@ -1,8 +1,10 @@
+import 'dart:html';
+
 void main() {
-  print('Hello world');
-  print('Hello world');
-  String name = 'HADAL';
-  print(name);
-  int age = 15;
-  print(age);
+  int x = -3;
+  if (x < 0) {
+    print("negativ");
+  } else {
+    print("positiv");
+  }
 }
