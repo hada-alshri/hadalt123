@@ -3,5 +3,6 @@ void main() {
   print('Hello world');
   String name = 'HADAL';
   print(name);
-  int age=15;
-  print (age);
+  int age = 15;
+  print(age);
+}
